@@ -1,0 +1,10 @@
+classify the three types of environment in which plants live
+that is:
+Xerofit
+Tropofit
+Saprofit
+
+then converted into numbers so that they can be classified by machine learning
+Xerofit : 1
+Tropofit : 2
+Saprofit : 3
